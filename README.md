@@ -1,9 +1,9 @@
 VoronoiFVM.jl
 ===============
 
-[![Build status](https://github.com/j-fu/VoronoiFVM.jl/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/j-fu/VoronoiFVM.jl/actions/workflows/ci.yml?query=branch%3Amaster)
-[![](https://img.shields.io/badge/docs-stable-blue.svg)](https://j-fu.github.io/VoronoiFVM.jl/stable)
-[![](https://img.shields.io/badge/docs-dev-blue.svg)](https://j-fu.github.io/VoronoiFVM.jl/dev)
+[![Build status](https://github.com/WIAS-PDELib/VoronoiFVM.jl/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/WIAS-PDELib/VoronoiFVM.jl/actions/workflows/ci.yml?query=branch%3Amaster)
+[![](https://img.shields.io/badge/docs-stable-blue.svg)](https://WIAS-PDELib.github.io/VoronoiFVM.jl/stable)
+[![](https://img.shields.io/badge/docs-dev-blue.svg)](https://WIAS-PDELib.github.io/VoronoiFVM.jl/dev)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3529808.svg)](https://doi.org/10.5281/zenodo.3529808)
 [![Zulip Chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://julialang.zulipchat.com/#narrow/stream/379007-voronoifvm.2Ejl)
 
@@ -14,7 +14,7 @@ It uses automatic differentiation via [ForwardDiff.jl](https://github.com/JuliaD
 ## JuliaCon 2024 Lightning Talk: [abstract](https://pretalx.com/juliacon2024/talk/F9FBWD/), [video](https://www.youtube.com/watch?v=v0RPD4eSzVE&t=5120s)
 
 ## Recent changes
-Please look up the list of recent [changes](https://j-fu.github.io/VoronoiFVM.jl/stable/changes)
+Please look up the list of recent [changes](https://WIAS-PDELib.github.io/VoronoiFVM.jl/stable/changes)
 
 ## Accompanying packages
 - [ExtendableSparse.jl](https://github.com/j-fu/ExtendableSparse.jl): convenient and efficient sparse matrix assembly
