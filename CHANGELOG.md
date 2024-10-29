@@ -1,4 +1,7 @@
 # Changes
+## 2024-10-28
+
+Moved repositiory from https://github.com/j-fu/VoronoiFVM.jl to https://github.com/WIAS-PDELib/VoronoiFVM.jl. [WIAS-PDELib](https://github.com/WIAS-PDELib/) is a github organization created to collectively manage the Julia packages developed under the lead of the [WIAS Numerical Mathematics and Scientific Computing](https://wias-berlin.de/research/rgs/fg3)  research group. According to the [github docs on repository transfer](https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository#whats-transferred-with-a-repository), all links to the previous repository location are automatically redirected to the new location, and all relationships with forks stay intact.
 
 ## v3.0 Planned  (pending some improvements in LinearSolve)
   - use `precs` based linear solver API, see https://github.com/SciML/LinearSolve.jl/pull/514
